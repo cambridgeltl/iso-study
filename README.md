@@ -17,3 +17,4 @@ If you use any of the provided material in your own work, please cite the follow
 ```
 
 ### Bilingual Lexicons
+You can download all bilingual lexicons used in the paper [here](https://github.com/cambridgeltl/panlex-bli/raw/master/lexicons/bg-l2.zip)
