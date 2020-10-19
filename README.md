@@ -1,7 +1,7 @@
 # "Are All Good Word Vector Spaces Isomorphic": Data and Code 
 Contact: [Ivan Vulić](https://sites.google.com/site/ivanvulic/) (iv250 AT cam DOT ac DOT uk)
 
-This repo contains 1) bilingual lexicons, 2) processed Wikipedia snapshots, and 3) code used in the empirical study [Are All Good Word Vector Spaces Isomorphic?](https://arxiv.org/pdf/2004.04070.pdf) (Vulić, Ruder, Søgaard EMNLP 2020)
+This repo contains 1) bilingual lexicons, 2) sampled processed Wikipedia snapshots, and 3) code used in the empirical study [Are All Good Word Vector Spaces Isomorphic?](https://arxiv.org/pdf/2004.04070.pdf) (Vulić, Ruder, Søgaard EMNLP 2020)
 
 ### References
 
@@ -17,7 +17,7 @@ If you use any of the provided material in your own work, please cite the follow
 ```
 
 ### Bilingual Lexicons
-You can download all bilingual lexicons used in the paper [here](https://github.com/cambridgeltl/iso-study/raw/master/lexicons/BilingualLexicons.zip)
+You can download all bilingual lexicons used in the paper [here](https://github.com/cambridgeltl/iso-study/raw/master/lexicons/BilingualLexicons.zip).
 
 * The languages included are: English (en), Spanish (es), Arabic (ar), Japanese (ja), Quechuan (qu), Galician (gl), Basque (eu), Bengali (bn), Urdu (ur), Tamil (ta).
 
@@ -28,3 +28,9 @@ You can download all bilingual lexicons used in the paper [here](https://github.
 * For some language pairs (due to the strict extraction process), the number of pairs in the lexicons is smaller than the desired 5K training pairs or 2K test pairs - please double-check before running any size-related analyses of the lexicons and projection-based methods.
 
 * Other details, such as the source of the lexicon (e.g., Google Translate, PanLex, manual translation) are available in the corresponding paper.
+
+
+### Sampled Wikipedia snapshots 
+In the paper, we sample the Wikipedias of high-resource languages (e.g., Spanish) so that its topical distribution is as close as possible to that of low-resource languages spoken in similar regions (e.g., Galician, Basque) or related to it via historical links (e.g., Quechuan) - see subsection 4.6 in the paper.
+
+We provide these sampled (and processed) Wikipedias: they can be obtained [here](link).
