@@ -17,4 +17,14 @@ If you use any of the provided material in your own work, please cite the follow
 ```
 
 ### Bilingual Lexicons
-You can download all bilingual lexicons used in the paper [here](https://github.com/cambridgeltl/panlex-bli/raw/master/lexicons/bg-l2.zip)
+You can download all bilingual lexicons used in the paper [here](https://github.com/cambridgeltl/iso-study/raw/master/lexicons/BilingualLexicons.zip)
+
+* The languages included are: English (en), Spanish (es), Arabic (ar), Japanese (ja), Quechuan (qu), Galician (gl), Basque (eu), Bengali (bn), Urdu (ur), Tamil (ta).
+
+* The format of the lexicons should be self-explanatory. The files are tab-delimited.
+
+* The provided lexicons are of course not perfect, and some of them have not been manually cleaned or verified although the extraction process from PanLex was quite strict in order to focus on high precision. Still, there might be some noise in the lexicons. Therefore, the lexicons should be considered as silver standard.
+
+* For some language pairs (due to the strict extraction process), the number of pairs in the lexicons is smaller than the desired 5K training pairs or 2K test pairs - please double-check before running any size-related analyses of the lexicons and projection-based methods.
+
+* Other details, such as the source of the lexicon (e.g., Google Translate, PanLex, manual translation) are available in the corresponding paper.
