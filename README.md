@@ -36,5 +36,9 @@ In the paper, we sample the Wikipedias of high-resource languages (e.g., Spanish
 We provide these sampled (and processed) Wikipedias: they can be obtained [here](link).
 
 
+### Code: Isomorphism Scripts
+We also provide Python (python2) scripts used to compute isomorphism scores with the three isomorphism measures used in the paper.
+
+
 ### Contact
 * For any further questions, please contact [Ivan Vulić](https://sites.google.com/site/ivanvulic/) (iv250 AT cam DOT ac DOT uk)
