@@ -33,7 +33,7 @@ You can download all bilingual lexicons used in the paper [here](https://github.
 ### Sampled Wikipedia Snapshots 
 In the paper, we sample the Wikipedias of high-resource languages (e.g., Spanish) so that its topical distribution is as close as possible to that of low-resource languages spoken in similar regions (e.g., Galician, Basque) or related to it via historical links (e.g., Quechuan) - see subsection 4.6 in the paper.
 
-We provide these sampled (and processed) Wikipedias: they can be obtained [here](link).
+We provide these sampled (and processed) Wikipedias: they can be obtained [here](https://drive.google.com/file/d/1IWw_zB9xDII28N5auI0qPy7m9eK20lcZ/view?usp=sharing).
 
 
 ### Code: Isomorphism Scripts
