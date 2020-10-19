@@ -30,7 +30,11 @@ You can download all bilingual lexicons used in the paper [here](https://github.
 * Other details, such as the source of the lexicon (e.g., Google Translate, PanLex, manual translation) are available in the corresponding paper.
 
 
-### Sampled Wikipedia snapshots 
+### Sampled Wikipedia Snapshots 
 In the paper, we sample the Wikipedias of high-resource languages (e.g., Spanish) so that its topical distribution is as close as possible to that of low-resource languages spoken in similar regions (e.g., Galician, Basque) or related to it via historical links (e.g., Quechuan) - see subsection 4.6 in the paper.
 
 We provide these sampled (and processed) Wikipedias: they can be obtained [here](link).
+
+
+### Contact
+* For any further questions, please contact [Ivan Vulić](https://sites.google.com/site/ivanvulic/) (iv250 AT cam DOT ac DOT uk)
