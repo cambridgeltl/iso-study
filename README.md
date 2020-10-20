@@ -1,7 +1,7 @@
 # "Are All Good Word Vector Spaces Isomorphic": Data and Code 
 Contact: [Ivan Vulić](https://sites.google.com/site/ivanvulic/) (iv250 AT cam DOT ac DOT uk)
 
-This repo contains 1) bilingual lexicons, 2) sampled processed Wikipedia snapshots, and 3) code used in the empirical study [Are All Good Word Vector Spaces Isomorphic?](https://arxiv.org/pdf/2004.04070.pdf) (Vulić, Ruder, Søgaard EMNLP 2020)
+This repo contains 1) bilingual lexicons, 2) sampled processed Wikipedia snapshots, and 3) code used in the empirical study "[Are All Good Word Vector Spaces Isomorphic?](https://arxiv.org/pdf/2004.04070.pdf)" (Vulić, Ruder, Søgaard; EMNLP 2020)
 
 ### References
 
